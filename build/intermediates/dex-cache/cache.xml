@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mohammedhijazi/.android/build-cache/d13b6e394dd65ddd2a661ddaa5826cb299ac4983/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="221aa6a0f73f09f59032b5378e3181def72216fe">
+        <dex dex="/Users/mohammedhijazi/Desktop/RS-ACAART/Draw/How to Draw PokemonA/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63495dbf36ad1ec18cb58867f775ce37d93737d9/classes.dex" />
+    </item>
+
+</items>
